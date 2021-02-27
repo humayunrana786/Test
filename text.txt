@@ -1,2 +1,2 @@
 Hello test
-2nd line added
+2nd line is deleted
